@@ -1,0 +1,4 @@
+
+button{border: darkred;color:darkred;border-radius: 20px;border-style: solid; background-color: gold;font-family: serif;
+font-size: 200px;display: flex;margin: 0 auto;flex-direction: column;justify-content: center}
+button:hover{box-shadow: 0 0 10px rgba(0,0,0,0.5); transform: rotate(45deg);}
